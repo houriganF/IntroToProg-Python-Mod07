@@ -1,5 +1,5 @@
 # Pickling & Error Handling in Python
-**Dev:** * FHourigan*  
+**Dev:** *FHourigan*  
 **Date:** *02/24/2023*  
 
 ## Introduction
