@@ -1,4 +1,7 @@
 # Pickling & Error Handling in Python
+**Dev:** * FHourigan*  
+**Date:** *02/24/2023*  
+
 ## Introduction
 ### This week we explored the process of reading, writing, appending data from the memory into a file using a custom function. Python actually has several ways to read data from a file; each option has its own best use case. We also took note of the behavior of the cursor and how it can be baked into certain functions. We also introduced the concept of declaring the variable in python only when you need it. The nuances of python are starting to become clearer. It is more forgiving than some other languages. An example is the declaring of a variable inside or outside of a while loop doesn’t change or isolate it from the rest of the code. But this also can be more confusing, in the choices that you have to make when writing your script in python. You need to make the choices and be consistent, to keep things straight for yourself and others. 
 
