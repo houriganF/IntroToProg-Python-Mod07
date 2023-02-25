@@ -11,15 +11,15 @@
 ## Try / Except – Error Handling
 ### Another useful trick for writing our own scripts that we had touched on before, was the use of the Try/Except block of code. This is useful for when you have humans entering data and they can potentially break things by putting in code-breaking inputs. The example given was dividing by zero. You can nest the unique error options within the except sections of the code. The “Exception” block that is more generalized acts as a catch all and will capture all other errors. It makes sense that this exception block must go last, after the other nested except blocks specific to a class. This error handling can be useful if you can anticipate the kind of inputs that will possibly generate an error. Luckily the main ones are already in the documentation for you. While researching pickling I found in the python documentation the common errors for using the pickle module. When writing the code for this week’s assignment, I incorporated these common exceptions into my script. They are as follows:
 ```
-“ # The pickle module defines three exceptions: 
+# The pickle module defines three exceptions: 
       exception pickle.PickleError
-  # Common base class for the other pickling exceptions. It inherits Exception.
+# Common base class for the other pickling exceptions. It inherits Exception.
       exception pickle.PicklingError
 # Error raised when an unpicklable object is encountered by Pickler. It inherits PickleError.
 # Refer to What can be pickled and unpickled? to learn what kinds of objects can be pickled.
       exception pickle.UnpicklingError
 # Error raised when there is a problem unpickling an object, such as a data corruption or a security violation. It inherits PickleError.
-# Note that other exceptions may also be raised during unpickling, including (but not necessarily limited to) AttributeError, EOFError, ImportError, and IndexError.”
+# Note that other exceptions may also be raised during unpickling, including (but not necessarily limited to) AttributeError, EOFError, ImportError, and IndexError.
 ```
 
 
