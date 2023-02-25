@@ -9,10 +9,11 @@
 ## Binary Files – “Pickling”
 ### The Pickling module is specific to Python and is an existing module that allows you to read and write to binary files. Binary files are another option for working with data in a file. Binary files cannot be opened with a program like notebook or word because they are obscured or unreadable. They are also smaller in their space requirements. We were then tasked with researching this on our own. I found this description on the Python documentation page of the write function of pickling and the load function of unpickling:
 ```
-pickle.dump(obj, file, protocol=None, *, fix_imports=True, buffer_callback=None)
-Write the pickled representation of the object obj to the open file object file. This is equivalent to Pickler(file, protocol).dump(obj).“ 
-“pickle.load(file, *, fix_imports=True, encoding='ASCII', errors='strict', buffers=None)
-Read the pickled representation of an object from the open file object file and return the reconstituted object hierarchy specified therein. This is equivalent to Unpickler(file).load().”
+      pickle.dump(obj, file, protocol=None, *, fix_imports=True, buffer_callback=None)
+# Write the pickled representation of the object obj to the open file object file. This is equivalent to Pickler(file, protocol).dump(obj).“ 
+      pickle.load(file, *, fix_imports=True, encoding='ASCII', errors='strict', buffers=None)
+# Read the pickled representation of an object from the open file object file and return the reconstituted object hierarchy specified therein. 
+This is equivalent to Unpickler(file).load().”
 ```
 ### Binary files must be converted by a program to make it readable by a human. You can also load the data from the file in python and then it is turned back into readable data in memory that then can be written to a text file. 
 
