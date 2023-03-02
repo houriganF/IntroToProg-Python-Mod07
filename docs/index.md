@@ -37,7 +37,22 @@
 
 ### Figure 7.1: The Script Header, Data, and Processing Sections
 
-https://github.com/houriganF/IntroToProg-Python-Mod07/blob/main/docs/Code2.JPG 
+[![Code2](Code2.jpg)](https://github.com/houriganF/IntroToProg-Python-Mod07/blob/main/docs/Code2.JPG)
 
 ### Figure 7.2: The Presentation Section 
 
+[![Shell](Shell.jpg)](https://github.com/houriganF/IntroToProg-Python-Mod07/blob/main/docs/Shell.JPG)
+
+### Figure 7.3 The Script Executed in the PyCharm Shell 
+
+[![Command](command.jpg)](https://github.com/houriganF/IntroToProg-Python-Mod07/blob/main/docs/command.JPG)
+
+### Figure 7.4 The Command Prompt Window
+
+[![Binary](binary.jpg)](https://github.com/houriganF/IntroToProg-Python-Mod07/blob/main/docs/binary.JPG)
+
+### 7.5 The Final Binary File
+
+# Summary
+
+### I ran out of time this week to debug my code. I found the process of looking up pickle and binary file descriptions fairly simply. I often have to google things in GIS and read through the documentation for the software, so this assignment in that sense felt familiar. However, the piece this week that stumped me was creating the custom error handling scripts and using the existing pickle error handling defaults from the documentation inside my script. I was unclear how and where they should fit in with the main body of the script. Although, I was able to get my script to run and to save the data to the binary file, the script in its entirety feels incomplete. I think expanding it to include a menu of items and looping through those options, similar to the scripts we have been modifying in previous weeks would help to polish it.
