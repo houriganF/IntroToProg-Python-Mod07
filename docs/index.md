@@ -33,7 +33,7 @@
 
 ## My Code:
 
-![Screenshot](Code1.jpg)
+![Code1](Code1.jpg)
 
 ### Figure 7.1: The Script Header, Data, and Processing Sections
 
