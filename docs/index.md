@@ -33,7 +33,7 @@
 
 ## My Code:
 
-![Code1](Code1.jpg)
+[![Code1](Code1.jpg)](https://github.com/houriganF/IntroToProg-Python-Mod07/blob/main/docs/Code1.JPG)
 
 ### Figure 7.1: The Script Header, Data, and Processing Sections
 
