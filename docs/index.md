@@ -37,3 +37,7 @@
 
 ### Figure 7.1: The Script Header, Data, and Processing Sections
 
+https://github.com/houriganF/IntroToProg-Python-Mod07/blob/main/docs/Code2.JPG 
+
+### Figure 7.2: The Presentation Section 
+
