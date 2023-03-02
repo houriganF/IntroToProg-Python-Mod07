@@ -33,7 +33,7 @@
 
 ## My Code:
 
-(https://github.com/houriganF/IntroToProg-Python-Mod07/docs/Code1.jpg)
+![Screenshot](Code1.jpg)
 
 ### Figure 7.1: The Script Header, Data, and Processing Sections
 
